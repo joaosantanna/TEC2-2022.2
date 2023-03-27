@@ -1,0 +1,4 @@
+nome=Joao Santanna - Disciplina = Tec2 
+nome=Reginaldo - Disciplina = Bioquimica 
+nome=Raykleysson - Disciplina = Fisica 
+nome=Hildo - Disciplina = metodologia cientifica 
